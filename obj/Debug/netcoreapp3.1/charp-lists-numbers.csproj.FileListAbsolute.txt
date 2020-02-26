@@ -1,0 +1,10 @@
+/Users/taylorcarroll/workspace/C37/charp-lists-numbers/bin/Debug/netcoreapp3.1/charp-lists-numbers.deps.json
+/Users/taylorcarroll/workspace/C37/charp-lists-numbers/bin/Debug/netcoreapp3.1/charp-lists-numbers.runtimeconfig.json
+/Users/taylorcarroll/workspace/C37/charp-lists-numbers/bin/Debug/netcoreapp3.1/charp-lists-numbers.runtimeconfig.dev.json
+/Users/taylorcarroll/workspace/C37/charp-lists-numbers/bin/Debug/netcoreapp3.1/charp-lists-numbers.dll
+/Users/taylorcarroll/workspace/C37/charp-lists-numbers/bin/Debug/netcoreapp3.1/charp-lists-numbers.pdb
+/Users/taylorcarroll/workspace/C37/charp-lists-numbers/obj/Debug/netcoreapp3.1/charp-lists-numbers.csprojAssemblyReference.cache
+/Users/taylorcarroll/workspace/C37/charp-lists-numbers/obj/Debug/netcoreapp3.1/charp-lists-numbers.AssemblyInfoInputs.cache
+/Users/taylorcarroll/workspace/C37/charp-lists-numbers/obj/Debug/netcoreapp3.1/charp-lists-numbers.AssemblyInfo.cs
+/Users/taylorcarroll/workspace/C37/charp-lists-numbers/obj/Debug/netcoreapp3.1/charp-lists-numbers.dll
+/Users/taylorcarroll/workspace/C37/charp-lists-numbers/obj/Debug/netcoreapp3.1/charp-lists-numbers.pdb
